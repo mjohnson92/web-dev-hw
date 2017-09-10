@@ -14,7 +14,7 @@
 **Things To Be Excited For**
 1. *Michael*, remember you love to learn.
 2. Learning to code is already a big interest of mine.
-3. I get to make webpages! This class seems so fun!
+3. I get to make webpages and this class seems so fun!
 
 ***
 
