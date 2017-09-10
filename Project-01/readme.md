@@ -20,7 +20,7 @@
 
 ```This must be code block... Anyways, I'm hoping Creative Coding and this class will kind of hold hands somewhat. The class already had me download atom so they are somewhat synced. Either way should be a great semester!```
 
-Since we are required to provide a link, here is one to my **[Soundcloud](https://soundcloud.com/ravenmj)**. I create music in the little spare time that I have!
+Since we are required to provide a link, here is one to my **[Soundcloud](https://soundcloud.com/ravenmj)**. I create music in the little spare time that I have! :)
 
 ---
 #### *Want to see a cool image?*
