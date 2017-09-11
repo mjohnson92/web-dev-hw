@@ -25,4 +25,4 @@ Since we are required to provide a link, here is one to my **[Soundcloud](https:
 ---
 #### *Want to see a cool image?*
 Check out my directory:
-![Screenshot Of my Directory](./images/Screenshot-1.png)
+![Screenshot of my Directory](./Images/Screenshot-1.png)
