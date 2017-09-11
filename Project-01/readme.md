@@ -23,6 +23,6 @@
 Since we are required to provide a link, here is one to my **[Soundcloud](https://soundcloud.com/ravenmj)**. I create music in the little spare time that I have! :)
 
 ---
-#### *Want to see a cool image?*
-Check out my directory:
+#### *Want to see a picture of my family?*
+Too bad, check out my directory instead:
 ![Screenshot of my Directory](./Images/Screenshot-1.png)
