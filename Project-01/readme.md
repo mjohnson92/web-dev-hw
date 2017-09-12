@@ -1,6 +1,6 @@
 # My First README.md
 ---
-## Michael Johnson
+## *Michael Johnson*
 ---
 **My Experience So Far**
 
@@ -20,9 +20,20 @@
 
 ```This must be code block... Anyways, I'm hoping Creative Coding and this class will kind of hold hands somewhat. The class already had me download atom so they are somewhat synced. Either way it should be a great semester!```
 
-Since we are required to provide a link, here is one to my **[Soundcloud](https://soundcloud.com/ravenmj)**. I create music in the little spare time that I have! :)
+*Since we are required to provide a link, here is one to my **[Soundcloud](https://soundcloud.com/ravenmj)**. I create music in the little spare time that I have! :)*
 
 ---
 #### *Want to see a picture of my family?*
 Too bad, check out my directory instead:
 ![Screenshot of my Directory](./Images/Screenshot-1.png)
+---
+# 09/11/17 
+---
+## *Observing Webpages*
+---
+#### Checking into Soundcloud
+
+*Well, this is surprising. I expected a bit more code on this page, but I guess I have a lot to learn then. Pretty basic.*
+![Screenshot of my Directory](./Images/Screenshot-soundcloud.png)
+---
+![Screenshot of my Directory](./Images/Screenshot-soundcloud2.png)
