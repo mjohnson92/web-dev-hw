@@ -36,7 +36,7 @@ Too bad, check out my directory instead:
 *Here it is, images, music players, links, etc. Wow look at all those plays!*
 ![Screenshot of my Directory](./Images/Screenshot-soundcloud.png)
 
-*Well, this is surprising. I expected a bit more code on this page, but I guess I have a lot to learn then. Pretty basic, the only things I can really relate to is the basic HTML like the body and html tages. There's lots of scripts which I'm guessing we will eventually learn about.*
+*Well, this is surprising. I expected a bit more code on this page, but I guess I have a lot to learn then. Pretty basic, the only things I can really relate to is the basic HTML like the body and html tags. There's lots of scripts which I'm guessing we will eventually learn about.*
 ![Screenshot of my Directory](./Images/Screenshot-soundcloud2.png)
 
 ---
