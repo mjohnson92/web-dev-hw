@@ -29,7 +29,7 @@ Too bad, check out my directory instead:
 ---
 # 09/11/17
 ---
-## *Observing Webpages*
+## *Observing Webpages / Wayback Machine*
 ---
 #### Checking into Soundcloud
 
