@@ -17,4 +17,10 @@
 ### Coding
 *The coding for this **HW-01** went rather smoothly. The header, I'm still trying to wrap my head around the meta information. But when every time I go over it it starts to make more sense. I will need to review **Duckett** every now and then.*
 
-### **Week 2**
+## **Week 2**
+---
+### Learning
+*There was a lot to learn this week. It was hard to keep up with all the new additions to the web page. Although they are simple it's wasy to mix up a the forms. This week was particularly hard because I had to try to learn things a lot more quickly due to getting married this weekend and having family in town. I had to do the assignment last minute which I do not recommend. I enjoyed learning about the forms and tables though. It's fun to actually have a few different pages now. Next week I hope to be a lot more free with my schedule so I can step it up and make my page even better and advanced. I will have to play catch up I think when it comes to making more forms.*
+---
+### Coding
+*The coding for this **HW-02** was a little trouble some at times now that there is a lot going on in the html. It's becoming so long and so many different things are happening now but I'm still not completely lost in the code yet.*
