@@ -16,3 +16,5 @@
 ---
 ### Coding
 *The coding for this **HW-01** went rather smoothly. The header, I'm still trying to wrap my head around the meta information. But when every time I go over it it starts to make more sense. I will need to review **Duckett** every now and then.*
+
+### **Week 2**
