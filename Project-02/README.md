@@ -24,8 +24,17 @@
 ---
 ### Learning
 ---
-#### *There was a lot to learn this week. It was hard to keep up with all the new additions to the web page. Although they are simple it's wasy to mix up a the forms. This week was particularly hard because I had to try to learn things a lot more quickly due to getting married this weekend and having family in town. I had to do the assignment last minute which I do not recommend. I enjoyed learning about the forms and tables though. It's fun to actually have a few different pages now. Next week I hope to be a lot more free with my schedule so I can step it up and make my page even better and advanced. I will have to play catch up I think when it comes to making more forms.*
----
+ *There was a lot to learn this week. It was hard to keep up with all the new additions to the web page. Although they are simple it's wasy to mix up a the forms. This week was particularly hard because I had to try to learn things a lot more quickly due to getting married this weekend and having family in town. I had to do the assignment last minute which I do not recommend. I enjoyed learning about the forms and tables though. It's fun to actually have a few different pages now. Next week I hope to be a lot more free with my schedule so I can step it up and make my page even better and advanced. I will have to play catch up I think when it comes to making more forms.*
 ### Coding
 ---
-*The coding for this **HW-02** was a little trouble some at times now that there is a lot going on in the html. It's becoming so long and so many different things are happening now but I'm still not completely lost in the code yet.*
+ *The coding for this HW-02 was a little trouble some at times now that there is a lot going on in the html. It's becoming so long and so many different things are happening now but I'm still not completely lost in the code yet.*
+
+# **Week 3**
+---
+### Learning
+---
+*Coding this week went well! Writing my about and info pages was easier then expected. I went back and updated my meta information for all pages that I had worked on and tried to add in additional ``<div>`` and `id` information to old paragraphs. I also decided to add a couple pictures to give it a little more excitement. I'm pretty satisfied with the end result knowing that I tried to add additional information in the old pages from the previous weeks.*
+
+### Coding
+---
+*On my index page and all pages that seemed relevent, I went back and added `div`,`class`, and `id` elements, and also added a picture. I added more links to the bottom of the page for navigation. On the instructions page, I changed the width of the table and added more links for navigation at the bottom. On the form page I added a picture and more links. I created the about page and added audio media, an address, mailto, and inserted a map. On my info page I added a bunch of outside media, such as videos from youtube and a wikipedia page.*
