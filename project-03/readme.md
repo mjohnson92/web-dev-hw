@@ -33,3 +33,9 @@ Here is a color palette that I'm thinking of using.
 [Cinzel Decorative](https://fonts.google.com/specimen/Cinzel+Decorative) from google fonts.
 
 [Geo Sans Light](https://www.dafont.com/geo-sans-light.font) I already own this font and love it so I'll likely use it.
+
+## **Project 03 Update: 11/01/17**
+
+The blog will now be focused around music and art. Besides the required pages there will be a music and visual page. `index.html` will be the home page and will link to other pages. These pages will include information on the project, artist, and the blog's input. The pages will be called `audio.html` and `visual.html`.
+
+The `about.html` page will contain information on the blog. The `contact.html` will have information on contacting the authors. Not exactly sure what the sample page is for... details to add.
