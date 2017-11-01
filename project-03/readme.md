@@ -32,4 +32,4 @@ Here is a color palette that I'm thinking of using.
 ### **Fonts**
 [Cinzel Decorative](https://fonts.google.com/specimen/Cinzel+Decorative) from google fonts.
 
-[Drugs](https://www.myfonts.com/fonts/type-type/tt-drugs/) I already own this font and love it so I'll likely use it.
+[Geo Sans Light](https://www.dafont.com/geo-sans-light.font) I already own this font and love it so I'll likely use it.
