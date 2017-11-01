@@ -28,3 +28,8 @@ Here is a color palette that I'm thinking of using.
 ![inspo](./Images/untitled2.jpg)
 ![inspo](./Images/sol-lewitt-from-six-geometric.jpg)
 ![inspo](./Images/untitled1.jpg)
+
+### **Fonts**
+[Cinzel Decorative](https://fonts.google.com/specimen/Cinzel+Decorative) from google fonts.
+
+[Drugs](https://www.myfonts.com/fonts/type-type/tt-drugs/) I already own this font and love it so I'll likely use it.
