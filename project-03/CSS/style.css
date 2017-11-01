@@ -1,0 +1,44 @@
+
+
+/* Select the main container 'div' element */
+.main-container {
+    /* Draw a blue border 2px thick. */
+    border-style: solid;
+    border-width: 2px;
+    border-color: limegreen;
+    /*Add space between the boarder and its inside elements. */
+    padding: 10px;
+    /* Color the background dark grey. */
+    background: #373E42;
+}
+/* Select all h1 elements. */
+h1 {
+    /* Draw an orange border 2px thick around the element. */
+    border-style: solid;
+    border-color: orange;
+    /* Set a unique background color. */
+    background: #f1f1f1;
+}
+/* Select all paragraph elements. */
+p {
+    border-style: solid;
+    border-color: gold;
+    background: #f1f1f1;
+}
+/* Select the strong elements. */
+strong {
+    border-style: solid;
+    border-width: 2px;
+    border-color: tomato;
+}
+/* Select the emphasized elements. */
+em {
+    border-style: solid;
+    border-width: 2px;
+    border-color: tomato;
+}
+
+/* Experiement on your own by styling the second div element! */
+.secondary-container {
+   /* Add some style... */
+}
