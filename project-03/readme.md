@@ -21,3 +21,10 @@ What will I say about myself? Well that I am a student, a husband, and an artist
 
 Here is a color palette that I'm thinking of using.
 ![Color Palette](./Images/color-palette.png)
+
+### **Image Inspiration**
+![inspo](./Images/jesus-perea-abstract-composition-m19-2017.jpg)
+![inspo](./Images/tbdxesno7.png)
+![inspo](./Images/untitled2.jpg)
+![inspo](./Images/sol-lewitt-from-six-geometric.jpg)
+![inspo](./Images/untitled1.jpg)
