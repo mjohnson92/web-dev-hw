@@ -18,4 +18,6 @@ The material for **Project 03** will come from different sources. If I'm describ
 What will I say about myself? Well that I am a student, a husband, and an artist at heart. I could have a picture of me and a few little tidbits and hobbies. If it's about another artist I'm listening to I will obviously get their information, photo, and a little bit of bio information.
 
 ### **Color Palette**
-[Color Palette](./Images/color-palette.png)
+
+Here is a color palette that I'm thinking of using.
+![Color Palette](./Images/color-palette.png)
