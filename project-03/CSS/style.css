@@ -1,11 +1,13 @@
 
 
 html {
-    background-color: #80828a;
+    background-color: rgb( 40, 41, 43);
     font-family: sans-serif;
-    color: rgb(40, 41, 43);
+    color: rgb(218, 221, 235);
+
+    #
 }
 #other-paragraph {
-    font-family: serif;
-    color: rgb(218,221,235);
+    font-family: sans-serif;
+    color: rgb( 108, 119, 163);
 }
