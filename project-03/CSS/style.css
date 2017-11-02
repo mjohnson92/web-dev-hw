@@ -1,12 +1,11 @@
 
-#page1 .myDiv {
-  background-color: #80828a;
-  font-family: sans-serif;
-  color: rgb(40, 41, 43);
-}
 
-#page2 .myDiv {
-  background-color: #80828a;
-  font-family: sans-serif;
-  color: rgb(40, 41, 43);
+html {
+    background-color: #80828a;
+    font-family: sans-serif;
+    color: rgb(40, 41, 43);
+}
+#other-paragraph {
+    font-family: serif;
+    color: rgb(218,221,235);
 }
