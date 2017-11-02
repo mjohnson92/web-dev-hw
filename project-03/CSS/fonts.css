@@ -1,0 +1,30 @@
+@font-face {
+   font-family: 'Cinzel Decorative';
+   src: url('../fonts/CinzelDecorative-Black.otf') format('opentype');
+   font-weight: 900;
+   font-style: normal;
+}
+@font-face {
+   font-family: 'Cinzel Decorative';
+   src: url('../fonts/CinzelDecorative-Bold.otf') format('opentype');
+   font-weight: bold;
+   font-style: normal;
+}
+@font-face {
+   font-family: 'Cinzel Decorative';
+   src: url('../fonts/CinzelDecorative-Regular.otf') format('opentype');
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: 'Geo Sans Light';
+   src: url('../fonts/GeosansLight-Oblique.ttf') format('opentype');
+   font-weight: normal;
+   font-style: oblique;
+}
+@font-face {
+   font-family: 'Geo Sans Light';
+   src: url('../fonts/GeosansLight') format('opentype');
+   font-weight: normal;
+   font-style: normal;
+}

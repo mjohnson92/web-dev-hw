@@ -2,8 +2,11 @@
 
 html {
     background-color: rgb( 40, 41, 43);
-    font-family: sans-serif;
+    font-family: 'Geo Sans Light', sans-serif;
+    font-weight: normal;
+    font-style: normal;
     color: rgb(218, 221, 235);
+
 
     #
 }
@@ -11,3 +14,10 @@ html {
     font-family: sans-serif;
     color: rgb( 108, 119, 163);
 }
+h1 {
+   color: rgb(218, 221, 235);
+   size: 2em;
+}
+.one {
+   font-family: 'Cinzel Decorative', sans-serif;
+   font-weight: normal;
