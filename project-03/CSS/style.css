@@ -5,31 +5,46 @@ html {
 
 /*   Index Page   */
 
-.index-title {
-  font-family: 'Peignot';
-  font-size: 600%;
+.title a {
+  font-family: 'Source Sans Pro';
+  font-style: italic;
+  font-size: 400%;
+  font-variant: small-caps;
   line-height: .8em;
   letter-spacing: .5em;
   color: #28292B;
   margin: .25%;
   padding: 1%;
+  text-decoration: none;
 
 }
 
+.title a:hover {
+        color: #275cb5;
+        font-style: italic;
+}
+
 .index-moto {
-    font-family: 'Peignot';
+    font-family: 'Source Sans Pro';
     font-size: 30px;
     line-height: .5em;
+    letter-spacing: .2em;
     font-variant: small-caps;
     color: #3853C7;
+    font-weight: 100;
 }
 
 .index-about {
     font-family: 'Source Sans Pro';
     font-size: 18px;
     line-height: 1em;
+    letter-spacing: .25em;
     font-variant: small-caps;
     color: #28292B;
+}
+
+.index-links {
+  background-color: #28292B;
 }
 
 .index-links a {
@@ -48,23 +63,210 @@ html {
 }
 
 .index-current {
-    font-family: 'Peignot';
-    font-size: 36px;
-    line-height: .5em;
-    font-variant: small-caps;
-    color: #3853C7;
-    text-align: left;
+  font-family: 'Source Sans Pro';
+  font-style: italic;
+  font-size: 350%;
+  font-variant: small-caps;
+  line-height: .5em;
+  letter-spacing: .25em;
+  color: #3853C7;
+  margin: .25%;
+  padding: 1%;
+  text-decoration: none;
+  text-align: center;
 
 }
 
 .index-current-info {
     font-family: 'Source Sans Pro';
-    font-size: 18px;
-    line-height: .5em;
+    font-size: 30px;
+    line-height: 2em;
     font-variant: small-caps;
     color: #28292B;
-    text-align: left;
+    text-align: center;
+  }
 
-#lead-content-picture {
-        vertical-align: text-bottom;
+/*   ///////////////////////////////////////////////////////////////////   */
+
+/* Sample Page Specific */
+
+.sample-title {
+  background-color: #28292B;
+  font-family: 'Source Sans Pro';
+  font-style: italic;
+  font-size: 650%;
+  font-variant: small-caps;
+  line-height: 1em;
+  letter-spacing: .5em;
+  color: #cd1c41;
+  margin: .25%;
+  padding: 1%;
+  text-decoration: none;
+}
+
+.sample-message {
+  font-family: 'Source Sans Pro';
+  font-size: 120px;
+  line-height: .6em;
+  letter-spacing: .4em;
+  font-variant: small-caps;
+  color: #3853C7;
+  text-align: justify;
+}
+
+.sample-message:first-line {
+    text-indent: 0;
+    color: rgb(0, 0, 0);
+}
+
+
+.sample-message::first-letter {
+    font-size: 2em;
+    color: #cd1c41;
+
+
+}
+
+.month {
+  background-color: #cd1c41;
+  font-family: 'Source Sans Pro';
+  font-size: 350%;
+  font-variant: small-caps;
+  line-height: 1em;
+  letter-spacing: .25em;
+  color: #28292B;
+  margin: .25%;
+  padding: 1%;
+  text-decoration: none;
+  text-align: center;
+  font-weight: 100;
+}
+
+.music-selection-title-artist {
+
+  font-family: 'Source Sans Pro';
+  font-style: italic;
+  font-size: 200%;
+  font-variant: small-caps;
+  line-height: .75em;
+  letter-spacing: .25em;
+  color: #3853C7;
+  margin: .25%;
+  padding: 1%;
+  text-decoration: none;
+  text-align: center;
+
+}
+
+.music-info {
+  font-family: 'Source Sans Pro';
+  font-size: 18px;
+  line-height: 1em;
+  letter-spacing: .25em;
+  font-variant: small-caps;
+  color: #28292B;
+}
+
+/*   ///////////////////////////////////////////////////////////////////   */
+
+/* Contact Specific */
+
+.contact-title {
+  background-color: #28292B;
+  font-family: 'Source Sans Pro';
+  font-style: italic;
+  font-size: 650%;
+  font-variant: small-caps;
+  line-height: 1em;
+  letter-spacing: .5em;
+  color: #cd1c41;
+  margin: .25%;
+  padding: 1%;
+  text-decoration: none;
+}
+
+.contact-info {
+    font-family: 'Source Sans Pro';
+    font-size: 30px;
+    line-height: 1em;
+    font-variant: small-caps;
+    color: #28292B;
+    text-align: center;
+    font-weight: 100;
+  }
+
+  .contact-motto {
+    font-family: 'Source Sans Pro';
+    font-style: italic;
+    font-size: 750%;
+    font-variant: small-caps;
+    line-height: 1em;
+    letter-spacing: .25em;
+    color: #3853C7;
+    margin: .25%;
+    padding: 1%;
+    text-decoration: none;
+    text-align: justify;
+  }
+
+  .contact-name {
+      font-family: 'Source Sans Pro';
+      font-size: 30px;
+      line-height: .5em;
+      font-variant: small-caps;
+      color: #28292B;
+      text-align: center;
+      font-weight: 100;
     }
+
+    .contact-block {
+      background-color: #28292B;
+      font-family: 'Source Sans Pro';
+      font-style: italic;
+      font-size: 450%;
+      font-variant: small-caps;
+      line-height: .75em;
+      letter-spacing: .5em;
+      color: #cd1c41;
+      margin: .25%;
+      padding: 1%;
+      text-decoration: none;
+    }
+
+/*   ///////////////////////////////////////////////////////////////////   */
+
+/* About Specific */
+
+.about-info {
+    font-family: 'Source Sans Pro';
+    font-size: 34px;
+    line-height: 1em;
+    font-variant: small-caps;
+    color: #28292B;
+    text-align: justify;
+    font-weight: 100;
+  }
+
+.author {
+  font-family: 'Source Sans Pro';
+  font-style: italic;
+  font-size: 750%;
+  font-variant: small-caps;
+  line-height: 1em;
+  letter-spacing: .25em;
+  color: #3853C7;
+  margin: .25%;
+  padding: 1%;
+  text-decoration: none;
+  text-align: center;
+}
+
+.author:first-line {
+    text-indent: 0;
+    color: rgb(0, 0, 0);
+}
+
+
+.author::first-letter {
+    font-size: 2em;
+    color: #cd1c41;

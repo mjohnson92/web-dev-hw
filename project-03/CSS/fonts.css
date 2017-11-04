@@ -22,23 +22,3 @@
    font-weight: bold;
    font-style: italic;
 }
-@font-face {
-   font-family: 'Geo Sans Light';
-   src: url('../fonts/GeosansLight') format('opentype');
-   font-weight: normal;
-   font-style: normal;
-}
-
-@font-face {
-   font-family: 'Peignot';
-   src: url('../fonts/Peignot.ttf') format('opentype');
-   font-weight: normal;
-   font-style: normal;
-}
-
-@font-face {
-   font-family: 'Drugs';
-   src: url('../fonts/Drugs.otf') format('opentype');
-   font-weight: normal;
-   font-style: normal;
-}
