@@ -7,36 +7,64 @@ html {
 
 .index-title {
   font-family: 'Peignot';
-  font-size: 6em;
+  font-size: 600%;
+  line-height: .8em;
+  letter-spacing: .5em;
   color: #28292B;
+  margin: .25%;
+  padding: 1%;
+
 }
 
 .index-moto {
     font-family: 'Peignot';
-    font-size: 2em;
+    font-size: 30px;
+    line-height: .5em;
+    font-variant: small-caps;
     color: #3853C7;
 }
 
 .index-about {
     font-family: 'Source Sans Pro';
-    font-size: 1em;
+    font-size: 18px;
+    line-height: 1em;
+    font-variant: small-caps;
     color: #28292B;
 }
 
-.index-links {
+.index-links a {
     font-family: 'Source Sans Pro';
-    font-size: 1em;
+    font-size: 22px;
+    line-height: 5em;
+    letter-spacing: 1.0em;
+    font-variant: small-caps;
     color: #3853C7;
+    text-decoration: none;
+}
+
+.index-links a:hover {
+        color: #cd1c41;
+        font-style: italic;
 }
 
 .index-current {
     font-family: 'Peignot';
-    font-size: 2em;
+    font-size: 36px;
+    line-height: .5em;
+    font-variant: small-caps;
     color: #3853C7;
+    text-align: left;
+
 }
 
 .index-current-info {
     font-family: 'Source Sans Pro';
-    font-size: 1em;
+    font-size: 18px;
+    line-height: .5em;
+    font-variant: small-caps;
     color: #28292B;
-}
+    text-align: left;
+
+#lead-content-picture {
+        vertical-align: text-bottom;
+    }
