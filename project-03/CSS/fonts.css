@@ -1,30 +1,44 @@
 @font-face {
-   font-family: 'Cinzel Decorative';
-   src: url('../fonts/CinzelDecorative-Black.otf') format('opentype');
-   font-weight: 900;
+   font-family: 'Source Sans Pro';
+   src: url('../fonts/SourceSansPro-ExtraLight.otf') format('opentype');
+   font-weight: lighter;
    font-style: normal;
 }
 @font-face {
-   font-family: 'Cinzel Decorative';
-   src: url('../fonts/CinzelDecorative-Bold.otf') format('opentype');
+   font-family: 'Source Sans Pro';
+   src: url('../fonts/SourceSansPro-ExtraLightIt.otf') format('opentype');
+   font-weight: lighter;
+   font-style: italic;
+}
+@font-face {
+   font-family: 'Source Sans Pro';
+   src: url('../fonts/SourceSansPro-Bold.otf') format('opentype');
    font-weight: bold;
    font-style: normal;
 }
 @font-face {
-   font-family: 'Cinzel Decorative';
-   src: url('../fonts/CinzelDecorative-Regular.otf') format('opentype');
-   font-weight: normal;
-   font-style: normal;
-}
-@font-face {
-   font-family: 'Geo Sans Light';
-   src: url('../fonts/GeosansLight-Oblique.ttf') format('opentype');
-   font-weight: normal;
-   font-style: oblique;
+   font-family: 'Source Sans Pro';
+   src: url('../fonts/SourceSansPro-BoldIt.otf') format('opentype');
+   font-weight: bold;
+   font-style: italic;
 }
 @font-face {
    font-family: 'Geo Sans Light';
    src: url('../fonts/GeosansLight') format('opentype');
+   font-weight: normal;
+   font-style: normal;
+}
+
+@font-face {
+   font-family: 'Peignot';
+   src: url('../fonts/Peignot.ttf') format('opentype');
+   font-weight: normal;
+   font-style: normal;
+}
+
+@font-face {
+   font-family: 'Drugs';
+   src: url('../fonts/Drugs.otf') format('opentype');
    font-weight: normal;
    font-style: normal;
 }

@@ -1,22 +1,42 @@
 
-
 html {
-    background-color: rgb( 40, 41, 43);
-    font-family: 'Geo Sans Light', sans-serif;
-    font-weight: normal;
-    font-style: normal;
-    color: rgb(218, 221, 235);
+    background-color: #DADDEB;
+}
 
+/*   Index Page   */
 
+.index-title {
+  font-family: 'Peignot';
+  font-size: 6em;
+  color: #28292B;
 }
-#other-paragraph {
-    font-family: sans-serif;
-    color: rgb( 108, 119, 163);
+
+.index-moto {
+    font-family: 'Peignot';
+    font-size: 2em;
+    color: #3853C7;
 }
-h1 {
-   color: rgb(218, 221, 235);
-   size: 2em;
+
+.index-about {
+    font-family: 'Source Sans Pro';
+    font-size: 1em;
+    color: #28292B;
 }
-.one {
-   font-family: 'Cinzel Decorative', sans-serif;
-   font-weight: normal;
+
+.index-links {
+    font-family: 'Source Sans Pro';
+    font-size: 1em;
+    color: #3853C7;
+}
+
+.index-current {
+    font-family: 'Peignot';
+    font-size: 2em;
+    color: #3853C7;
+}
+
+.index-current-info {
+    font-family: 'Source Sans Pro';
+    font-size: 1em;
+    color: #28292B;
+}
