@@ -53,12 +53,12 @@ html {
     line-height: 5em;
     letter-spacing: 1.0em;
     font-variant: small-caps;
-    color: #3853C7;
+    color: #cd1c41; 
     text-decoration: none;
 }
 
 .index-links a:hover {
-        color: #cd1c41;
+        color: #3853C7;
         font-style: italic;
 }
 
