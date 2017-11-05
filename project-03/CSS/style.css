@@ -6,7 +6,7 @@ html {
 /*   Index Page   */
 
 .title a {
-  font-family: 'Source Sans Pro';
+  font-family: 'Roboto';
   font-style: italic;
   font-size: 400%;
   font-variant: small-caps;
@@ -16,7 +16,7 @@ html {
   margin: .25%;
   padding: 1%;
   text-decoration: none;
-
+  font-weight: 100;
 }
 
 .title a:hover {
@@ -25,7 +25,7 @@ html {
 }
 
 .index-moto {
-    font-family: 'Source Sans Pro';
+    font-family: 'Roboto';
     font-size: 30px;
     line-height: .5em;
     letter-spacing: .2em;
@@ -53,7 +53,7 @@ html {
     line-height: 5em;
     letter-spacing: 1.0em;
     font-variant: small-caps;
-    color: #cd1c41; 
+    color: #cd1c41;
     text-decoration: none;
 }
 
