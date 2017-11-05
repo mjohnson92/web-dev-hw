@@ -285,3 +285,16 @@ html {
 .author::first-letter {
     font-size: 2em;
     color: #cd1c41;
+}
+
+.fun-fact {
+  background-color: #cd1c41;
+  font-family: 'Roboto';
+  font-size: 30px;
+  line-height: 2em;
+  letter-spacing: .25em;
+  font-variant: small-caps;
+  color: #28292B;
+  font-weight: 100;
+  text-align: center;
+  }
