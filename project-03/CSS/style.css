@@ -253,13 +253,13 @@ html {
 }
 
 .about-info {
-    font-family: 'Source Sans Pro';
-    font-size: 34px;
-    line-height: 1em;
-    font-variant: small-caps;
-    color: #28292B;
-    text-align: justify;
-    font-weight: 100;
+  font-family: 'Source Sans Pro';
+  font-size: 22px;
+  line-height: 1em;
+  letter-spacing: .25em;
+  font-variant: small-caps;
+  color: #28292B;
+  font-weight: 100;
   }
 
 .author {
