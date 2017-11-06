@@ -6,7 +6,7 @@ html {
 /*   Index Page   */
 
 .title a {
-  font-family: 'comic sans';
+  font-family: 'Roboto';
   font-style: italic;
   font-size: 400%;
   font-variant: small-caps;
@@ -25,7 +25,7 @@ html {
 }
 
 .index-moto {
-    font-family: 'comic sans';
+    font-family: 'Roboto';
     font-size: 30px;
     line-height: .5em;
     letter-spacing: .2em;
@@ -86,6 +86,60 @@ html {
     text-align: center;
   }
 
+  .reviews{
+    background-color: #28292B;
+    margin: 0%;
+    padding: 5%;
+  }
+
+  .press {
+    font-family: 'Source Sans Pro';
+    font-style: italic;
+    font-size: 750%;
+    font-variant: small-caps;
+    line-height: 1em;
+    letter-spacing: .25em;
+    color: #3853C7;
+    margin: .25%;
+    padding: 1%;
+    text-decoration: none;
+    text-align: center;
+  }
+
+  .press:first-line {
+      text-indent: 0;
+      color: rgb(0, 0, 0);
+  }
+
+
+  .press::first-letter {
+      font-size: 2em;
+      color: #cd1c41;
+  }
+
+  .review {
+    font-family: 'Roboto';
+    color: #cd1c41;
+    font-size: 20px;
+    line-height: 1em;
+    font-variant: small-caps;
+    text-align: center;
+  }
+
+  .review-header {
+    font-family: 'Source Sans Pro';
+    font-size: 350%;
+    font-variant: small-caps;
+    line-height: .5em;
+    letter-spacing: .25em;
+    color: #3853C7;
+    margin: .25%;
+    padding: 1%;
+    text-decoration: none;
+    text-align: center;
+    font-weight: lighter;
+  }
+
 /*   ///////////////////////////////////////////////////////////////////   */
 
 /* Sample Page Specific */
@@ -99,9 +153,10 @@ html {
   line-height: 1em;
   letter-spacing: .5em;
   color: #cd1c41;
-  margin: .25%;
+  margin: .15%;
   padding: 1%;
   text-decoration: none;
+
 }
 
 .sample-message {
@@ -179,12 +234,12 @@ html {
 
 .music-info {
   font-family: 'Source Sans Pro';
+  text-align: justify;
   font-size: 18px;
   line-height: 1em;
   letter-spacing: .25em;
   font-variant: small-caps;
   color: #28292B;
-  text-align: justify;
 }
 
 /*   ///////////////////////////////////////////////////////////////////   */
@@ -200,7 +255,7 @@ html {
   line-height: 1em;
   letter-spacing: .5em;
   color: #cd1c41;
-  margin: .25%;
+  margin: .15%;
   padding: 1%;
   text-decoration: none;
 }
@@ -266,7 +321,7 @@ html {
   line-height: 1em;
   letter-spacing: .5em;
   color: #cd1c41;
-  margin: .25%;
+  margin: .15%;
   padding: 1%;
   text-decoration: none;
 }
