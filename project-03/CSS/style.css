@@ -6,7 +6,7 @@ html {
 /*   Index Page   */
 
 .title a {
-  font-family: 'Roboto';
+  font-family: 'comic sans';
   font-style: italic;
   font-size: 400%;
   font-variant: small-caps;
@@ -25,7 +25,7 @@ html {
 }
 
 .index-moto {
-    font-family: 'Roboto';
+    font-family: 'comic sans';
     font-size: 30px;
     line-height: .5em;
     letter-spacing: .2em;
