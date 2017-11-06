@@ -266,19 +266,20 @@ html {
     line-height: 1em;
     font-variant: small-caps;
     color: #28292B;
-    text-align: center;
+    margin: .5%;
     font-weight: 100;
+    text-align: justify;
   }
 
   .contact-motto {
     font-family: 'Source Sans Pro';
     font-style: italic;
-    font-size: 750%;
+    font-size: 600%;
     font-variant: small-caps;
     line-height: 1em;
     letter-spacing: .25em;
     color: #3853C7;
-    margin: .25%;
+    margin: .5%;
     padding: 1%;
     text-decoration: none;
     text-align: justify;
