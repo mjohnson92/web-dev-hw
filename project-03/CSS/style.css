@@ -178,8 +178,6 @@ html {
 .sample-message::first-letter {
     font-size: 2em;
     color: #cd1c41;
-
-
 }
 
 .title-album {
@@ -198,7 +196,6 @@ html {
 }
 
 .music-selection-title-artist {
-
   font-family: 'Source Sans Pro';
   font-style: italic;
   font-size: 200%;
@@ -210,7 +207,6 @@ html {
   padding: 1%;
   text-decoration: none;
   text-align: center;
-
 }
 
 .more-info a {
