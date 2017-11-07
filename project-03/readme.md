@@ -39,3 +39,16 @@ Here is a color palette that I'm thinking of using.
 The blog will now be focused around music and art. Besides the required pages there will be a music and visual page. `index.html` will be the home page and will link to other pages. These pages will include information on the project, artist, and the blog's input. The pages will be called `audio.html` and `visual.html`.
 
 The `about.html` page will contain information on the blog. The `contact.html` will have information on contacting the authors. Not exactly sure what the sample page is for... details to add.
+
+
+## **Project 03 Update: 11/06/17**
+
+Changed a few things in the last few days. The blog will now only consist of music that I've been listening to this year. I will be adding as much info as I can before the final week is over. I also am using the font Roboto from google fonts now instead of cinzel.
+
+As for appearences, I added the color #cd1c41 and rgb(0, 0, 0); to my theme.
+
+My color and font choices are kind of the styles that I am into right now. Almost like futuristic but rooted in a future envisioned a decade or two ago.
+
+Biggest thing I overcame this week is linking my css to my `/pages`, all I had to do was add a `.` to the directory. :)
+
+I would like to work on style more and add images as backgrounds. I feel like my styling would make a little more sense that way.
