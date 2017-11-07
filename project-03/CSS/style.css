@@ -238,6 +238,8 @@ html {
   font-size: 18px;
   line-height: 1em;
   letter-spacing: .25em;
+  margin: .25%;
+  padding: 1%;
   font-variant: small-caps;
   color: #28292B;
 }
