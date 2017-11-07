@@ -365,10 +365,9 @@ html {
 }
 
 .fun-fact {
-  background-color: #cd1c41;
   font-family: 'Roboto';
   font-size: 30px;
-  line-height: 2em;
+  line-height: 1em;
   letter-spacing: .25em;
   font-variant: small-caps;
   color: #28292B;
