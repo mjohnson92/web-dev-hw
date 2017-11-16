@@ -41,6 +41,42 @@ header {
   font-weight: 100;
 }
 
+.container {
+  background-color: #28292B;
+  font-family: 'Roboto';
+  font-size: 30px;
+  line-height: 2em;
+  letter-spacing: .25em;
+  font-variant: small-caps;
+  color: #3853C7;
+  font-weight: 100;
+  text-align: center;
+}
+
+.tip-header {
+  background-color: #28292B;
+  font-family: 'Roboto';
+  font-size: 30px;
+  line-height: 2em;
+  letter-spacing: .25em;
+  font-variant: small-caps;
+  color: #3853C7;
+  font-weight: 100;
+  text-align: center;
+}
+
+
+.hidden-content {
+    display: none;
+    font-size: 1em;
+    font-style: italic;
+    padding: 1em;
+}
+
+.container:hover .hidden-content {
+    display: block;
+}
+
 .index-moto {
     background-color: #28292B;
     font-family: 'Roboto';
@@ -51,6 +87,30 @@ header {
     color: #3853C7;
     font-weight: 100;
     text-align: center;
+}
+
+.index-moto-secret {
+  background-color: #28292B;
+  font-family: 'Roboto';
+  font-size: 30px;
+  line-height: 2em;
+  letter-spacing: .25em;
+  font-variant: small-caps;
+  color: #3853C7;
+  font-weight: 100;
+  text-align: center;
+}
+
+.hidden-content {
+    display: none;
+    font-size: 1em;
+    font-style: italic;
+    padding: 1em;
+      background-color: #28292B;
+}
+
+.secret:hover .hidden-content {
+    display: block;
 }
 
 .index-about {
