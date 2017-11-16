@@ -51,6 +51,7 @@ header {
   color: #3853C7;
   font-weight: 100;
   text-align: center;
+  text-decoration: none;
 }
 
 .tip-header {
@@ -63,18 +64,23 @@ header {
   color: #3853C7;
   font-weight: 100;
   text-align: center;
+  text-decoration: none;
 }
 
 
 .hidden-content {
     display: none;
-    font-size: 1em;
+    font-size: 2em;
+    color: #3853C7;
     font-style: italic;
     padding: 1em;
+    text-decoration: none;
 }
 
-.container:hover .hidden-content {
+.index-moto:hover .hidden-content {
     display: block;
+
+    text-decoration: none;
 }
 
 .index-moto {
