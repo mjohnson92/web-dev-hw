@@ -52,3 +52,7 @@ My color and font choices are kind of the styles that I am into right now. Almos
 Biggest thing I overcame this week is linking my css to my `/pages`, all I had to do was add a `.` to the directory. :)
 
 I would like to work on style more and add images as backgrounds. I feel like my styling would make a little more sense that way.
+
+## **Project 03 Update: 11/15/17**
+
+Updated my css, well actually started a new css and copied over what I was thought was worth keeping. It was actually a lot harder then I thought it would be to renew old code with updated structural appearence. It's going to go a lot better I think when starting from scratch for project 04. Looking forward to that. I don't quite understand all of the content in the 3rd css part but I'm slowly coming along. 
