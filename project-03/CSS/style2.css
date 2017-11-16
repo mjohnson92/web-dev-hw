@@ -41,7 +41,7 @@ header {
   font-weight: 100;
 }
 
-.container {
+.menu-item {
   background-color: #28292B;
   font-family: 'Roboto';
   font-size: 30px;
@@ -51,39 +51,24 @@ header {
   color: #3853C7;
   font-weight: 100;
   text-align: center;
-  text-decoration: none;
 }
 
-.tip-header {
-  background-color: #28292B;
-  font-family: 'Roboto';
-  font-size: 30px;
-  line-height: 2em;
-  letter-spacing: .25em;
-  font-variant: small-caps;
-  color: #3853C7;
-  font-weight: 100;
-  text-align: center;
-  text-decoration: none;
-}
-
-
-.hidden-content {
-    display: none;
-    font-size: 2em;
+/* Style the links: */
+.menu-item a {
     color: #3853C7;
-    font-style: italic;
-    padding: 1em;
     text-decoration: none;
 }
-
-.index-moto:hover .hidden-content {
-    display: block;
-
-    text-decoration: none;
+.menu-item:hover {
+    color: #cd1c41;
 }
 
-.index-moto {
+/* Add a dropdown feature: */
+.dropdown {
+    display: inline-block;
+}
+.dropdown-content {
+    display: none;
+    position: absolute;
     background-color: #28292B;
     font-family: 'Roboto';
     font-size: 30px;
@@ -94,30 +79,27 @@ header {
     font-weight: 100;
     text-align: center;
 }
-
-.index-moto-secret {
-  background-color: #28292B;
-  font-family: 'Roboto';
-  font-size: 30px;
-  line-height: 2em;
-  letter-spacing: .25em;
-  font-variant: small-caps;
-  color: #3853C7;
-  font-weight: 100;
-  text-align: center;
+.dropdown-content a {
+    color: #000;
 }
-
-.hidden-content {
-    display: none;
-    font-size: 1em;
-    font-style: italic;
-    padding: 1em;
-      background-color: #28292B;
-}
-
-.secret:hover .hidden-content {
+.dropdown:hover .dropdown-content {
     display: block;
 }
+
+/* Style dropdown item display: */
+.dropdown-item {
+    display: block;
+    text-align: left;
+    margin: 0;
+    padding: 0.5em;
+    min-width: 7em;
+}
+.dropdown-item:hover, .dropdown-item:hover a {
+    color: #cd1c41;
+    background-color: color: #3853C7;
+}
+
+
 
 .index-about {
     font-family: 'Source Sans Pro';
