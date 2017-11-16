@@ -1,6 +1,37 @@
 
 html {
     background-color: #DADDEB;
+    margin: 10%;
+}
+
+header {
+  position: fixed;
+  top: 0px;
+  background-color: #28292B;
+  text-transform: uppercase;
+  height: 1em;
+  width: 100%;
+
+}
+
+.index-links {
+  background-color: #28292B;
+
+}
+
+.index-links a {
+    font-family: 'Source Sans Pro';
+    font-size: 22px;
+    line-height: 3em;
+    letter-spacing: 1.0em;
+    font-variant: small-caps;
+    color: #cd1c41;
+    text-decoration: none;
+}
+
+.index-links a:hover {
+    color: #3853C7;
+    font-style: italic;
 }
 
 /*   Index Page   */
@@ -41,25 +72,6 @@ html {
     letter-spacing: .25em;
     font-variant: small-caps;
     color: #28292B;
-}
-
-.index-links {
-  background-color: #28292B;
-}
-
-.index-links a {
-    font-family: 'Source Sans Pro';
-    font-size: 22px;
-    line-height: 5em;
-    letter-spacing: 1.0em;
-    font-variant: small-caps;
-    color: #cd1c41;
-    text-decoration: none;
-}
-
-.index-links a:hover {
-        color: #3853C7;
-        font-style: italic;
 }
 
 .index-current {

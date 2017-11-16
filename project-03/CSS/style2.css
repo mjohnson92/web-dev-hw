@@ -1,0 +1,505 @@
+html {
+    background-color: #DADDEB;
+}
+
+/*   Index Page   */
+
+header {
+  position: fixed;
+  top: 0px;
+  background-color: #28292B;
+  text-transform: uppercase;
+  height: 5em;
+  width: 100%;
+
+}
+
+.index-links a {
+    font-family: 'Source Sans Pro';
+    font-size: 22px;
+    line-height: 2em;
+    letter-spacing: 1.0em;
+    font-variant: small-caps;
+    color: #cd1c41;
+    text-decoration: none;
+    text-align: center;
+}
+
+.index-links a:hover {
+    color: #3853C7;
+}
+
+.title {
+  font-family: 'Roboto';
+  font-style: italic;
+  font-size: 700%;
+  line-height: 1em;
+  letter-spacing: .75em;
+  color: #28292B;
+  margin: .1%;
+  padding: 1%;
+  font-weight: 100;
+}
+
+.index-moto {
+    background-color: #28292B;
+    font-family: 'Roboto';
+    font-size: 30px;
+    line-height: 2em;
+    letter-spacing: .25em;
+    font-variant: small-caps;
+    color: #3853C7;
+    font-weight: 100;
+    text-align: center;
+}
+
+.index-about {
+    font-family: 'Source Sans Pro';
+    font-size: 22px;
+    line-height: 1.5em;
+    letter-spacing: .25em;
+    font-variant: small-caps;
+    color: #28292B;
+}
+
+.index-current {
+  background-color: #28292B;
+  font-family: 'Source Sans Pro';
+  font-style: italic;
+  font-size: 350%;
+  font-variant: small-caps;
+  line-height: 1.25em;
+  letter-spacing: .25em;
+  color: #3853C7;
+  padding: .5%;
+  text-decoration: none;
+  text-align: center;
+  width: 70%;
+
+}
+
+.index-current-info {
+    font-family: 'Source Sans Pro';
+    font-size: 30px;
+    line-height: 1em;
+    font-variant: small-caps;
+    color: #28292B;
+    text-align: center;
+    width: 70%;
+  }
+
+  .cover-art{
+    text-align: center;
+    width: 70%;
+  }
+
+  aside .aside-head {
+    font-family: 'Source Sans Pro';
+    font-variant: small-caps;
+    font-style: italic;
+    font-size: 1.5em;
+    text-align: center;
+    padding: 3%;
+    color: #3853C7;
+    background-color: #3853C7;
+    text-decoration: none;
+    margin: 5%;
+    letter-spacing: .25em;
+    line-height: 1em;
+}
+
+.aside-head:first-line {
+    text-indent: 0;
+    color: rgb(0, 0, 0);
+}
+
+
+.aside-head::first-letter {
+    font-size: 2em;
+    color: #cd1c41;
+}
+
+.aside-side aside.content-side {
+    float: right;
+    margin: 1em;
+    margin-top: 1em;
+    padding: 0;
+    width: 25%;
+    color: #111111;
+    background-color: #28292B;
+    font-weight: lighter;
+}
+
+.review {
+  font-family: 'Roboto';
+  color: #cd1c41;
+  font-size: 20px;
+  line-height: 1em;
+  font-variant: small-caps;
+  text-align: center;
+  padding: 2%;
+}
+
+.review-header {
+  font-family: 'Source Sans Pro';
+  font-size: 1.5em;
+  text-align: center;
+  font-variant: small-caps;
+  line-height: 1em;
+  letter-spacing: .25em;
+  color: #3853C7;
+  margin: .25%;
+  padding: 1%;
+  text-decoration: none;
+  font-weight: lighter;
+}
+
+.reviewee {
+  text-align: center;
+  padding: 3%;
+}
+
+/*   ///////////////////////////////////////////////////////////////////   */
+
+/* About Specific */
+
+.about-info {
+  font-family: 'Source Sans Pro';
+  font-size: 22px;
+  line-height: 1em;
+  letter-spacing: .25em;
+  font-variant: small-caps;
+  color: #28292B;
+  font-weight: 100;
+  width: 100%
+  text-align: center;
+  }
+
+  .about-title {
+    background-color: #28292B;
+    font-family: 'Source Sans Pro';
+    font-style: italic;
+    font-size: 650%;
+    font-variant: small-caps;
+    line-height: 1.25em;
+    letter-spacing: .25em;
+    color: #3853C7;
+    text-decoration: none;
+    text-align: center;
+    width: 100%;
+  }
+
+  .mulder-mulder {
+    max-width:80%;
+  	height:auto;
+    width: 75%;
+    padding-left: 2.5%
+  }
+
+  .author {
+    font-family: 'Source Sans Pro';
+    font-style: italic;
+    font-size: 680%;
+    font-variant: small-caps;
+    line-height: 1em;
+    letter-spacing: .25em;
+    color: #3853C7;
+    margin: .25%;
+    padding: 1%;
+    text-decoration: none;
+    text-align: center;
+    width: 75%;
+    padding-left: 2.5%
+  }
+
+  .author:first-line {
+      text-indent: 0;
+      color: rgb(0, 0, 0);
+      width: 75%;
+      padding-left: 2.5%
+  }
+
+
+  .author::first-letter {
+      font-size: 2em;
+      color: #cd1c41;
+      width: 75%;
+  }
+
+  .author-info {
+    font-family: 'Source Sans Pro';
+    font-size: 22px;
+    line-height: 1em;
+    letter-spacing: .25em;
+    font-variant: small-caps;
+    color: #28292B;
+    font-weight: 100;
+    width: 100%
+    text-align: center;
+    }
+
+  .fun-fact {
+    font-family: 'Roboto';
+    font-size: 30px;
+    line-height: 1em;
+    letter-spacing: .15em;
+    font-variant: small-caps;
+    color: #3853C7;
+    font-weight: 100;
+    text-align: center;
+    width: 18%;
+    padding-left: 12%
+
+    }
+
+    aside .aside-head {
+      font-family: 'Source Sans Pro';
+      font-variant: small-caps;
+      font-style: italic;
+      font-size: 1.5em;
+      text-align: center;
+      padding: 3%;
+      color: #3853C7;
+      background-color: #3853C7;
+      text-decoration: none;
+      margin: 5%;
+      letter-spacing: .25em;
+      line-height: 1em;
+      padding-left: 2%
+  }
+
+  .aside-head:first-line {
+      text-indent: 0;
+      color: rgb(0, 0, 0);
+  }
+
+
+  .aside-head::first-letter {
+      font-size: 2em;
+      color: #cd1c41;
+  }
+
+  .aside-about aside.content-side {
+      float: right;
+      margin: 1em;
+      margin-top: 1em;
+      padding: 0;
+      width: 18%;
+      color: #111111;
+      background-color: #28292B;
+      font-weight: lighter;
+  }
+
+  /*   ///////////////////////////////////////////////////////////////////   */
+
+  /* Sample Page Specific */
+
+  .sample-title {
+    background-color: #28292B;
+    font-family: 'Source Sans Pro';
+    font-style: italic;
+    font-size: 650%;
+    font-variant: small-caps;
+    line-height: 1.25em;
+    letter-spacing: .25em;
+    color: #3853C7;
+    text-decoration: none;
+    text-align: center;
+    width: 100%;
+
+  }
+
+  .sample-message {
+    font-family: 'Source Sans Pro';
+    font-size: 80px;
+    line-height: .6em;
+    letter-spacing: .4em;
+    font-variant: small-caps;
+    color: #3853C7;
+    text-align: justify;
+  }
+
+  .sample-message:first-line {
+      text-indent: 0;
+      color: rgb(0, 0, 0);
+  }
+
+
+  .sample-message::first-letter {
+      font-size: 2em;
+      color: #cd1c41;
+  }
+
+  .title-album {
+    background-color: #cd1c41;
+    font-family: 'Source Sans Pro';
+    font-size: 200%;
+    font-variant: small-caps;
+    line-height: 1em;
+    letter-spacing: 1em;
+    color: #28292B;
+    margin: -.2%;
+    padding: 5.5%;
+    text-decoration: none;
+    text-align: center;
+    font-weight: 100;
+    width: 100 %;
+    height: 100px;
+    padding-right: 3%
+  }
+
+  .music-selection-title-artist {
+    font-family: 'Source Sans Pro';
+    font-style: italic;
+    font-size: 200%;
+    font-variant: small-caps;
+    line-height: .75em;
+    letter-spacing: .25em;
+    color: #3853C7;
+    margin: .25%;
+    padding: 1%;
+    text-decoration: none;
+    text-align: center;
+    width: 45%;
+  }
+
+  .more-info a {
+    font-family: 'Roboto';
+    font-size: 160%;
+    font-variant: small-caps;
+    line-height: .75em;
+    letter-spacing: .25em;
+    color: #cd1c41;
+    margin: .25%;
+    padding: 1%;
+    text-decoration: none;
+    text-align: center;
+    width: 45%;
+  }
+
+
+  .more-info a:hover {
+          color: #275cb5;
+          font-style: italic;
+  }
+
+  .music-info {
+    font-family: 'Source Sans Pro';
+    text-align: justify;
+    font-size: 30px;
+    line-height: 1em;
+    letter-spacing: .25em;
+    margin: .25%;
+    padding: 5%;
+    font-variant: small-caps;
+    color: #cd1c41;
+
+  }
+
+  .music-talk {
+    font-family: 'Source Sans Pro';
+    text-align: justify;
+    font-size: 18px;
+    line-height: 1em;
+    letter-spacing: .25em;
+    margin: .25%;
+    padding: 1%;
+    font-variant: small-caps;
+    color: #cd1c41;
+
+  }
+
+  .audio-info{
+    font-family: 'Source Sans Pro';
+    font-variant: small-caps;
+    font-style: italic;
+    font-size: 1.5em;
+    text-align: center;
+    padding: 3%;
+    background-color: #28292B;
+    text-decoration: none;
+    margin: 5%;
+    letter-spacing: .25em;
+    line-height: 1em;
+    padding-left: 2%
+    width: 100%;
+  }
+
+  /*   ///////////////////////////////////////////////////////////////////   */
+
+  /* Contact Specific */
+
+  .contact-title {
+    background-color: #28292B;
+    font-family: 'Source Sans Pro';
+    font-style: italic;
+    font-size: 650%;
+    font-variant: small-caps;
+    line-height: 1em;
+    letter-spacing: .5em;
+    color: #cd1c41;
+    margin: .15%;
+    padding: 1%;
+    text-decoration: none;
+  }
+
+  .contact-info {
+      font-family: 'Source Sans Pro';
+      font-size: 30px;
+      line-height: 1em;
+      font-variant: small-caps;
+      color: #28292B;
+      margin: .5%;
+      font-weight: 100;
+      text-align: justify;
+    }
+
+    .contact-motto {
+      font-family: 'Source Sans Pro';
+      font-style: italic;
+      font-size: 600%;
+      font-variant: small-caps;
+      line-height: 1em;
+      letter-spacing: .25em;
+      color: #cd1c41;
+      margin: .5%;
+      padding: 1%;
+      text-decoration: none;
+      text-align: justify;
+    }
+
+    .contact-name {
+        font-family: 'Source Sans Pro';
+        font-size: 30px;
+        line-height: .5em;
+        font-variant: small-caps;
+        color: #28292B;
+        text-align: center;
+        font-weight: 100;
+      }
+
+      .contact-block {
+        background-color: #28292B;
+        font-family: 'Source Sans Pro';
+        font-style: italic;
+        font-size: 450%;
+        font-variant: small-caps;
+        line-height: .75em;
+        letter-spacing: .5em;
+        color: #cd1c41;
+        margin: .25%;
+        padding: 1%;
+        text-decoration: none;
+      }
+
+      .contact-box  {
+        text-align: center;
+        background-color: #3853C7;
+        width: 400px;
+        height: 200px;
+        margin: .25%;
+        padding: 2%;
+        margin-left: auto;
+        margin-right: auto;
+
+      }
