@@ -14,6 +14,22 @@ header {
 
 }
 
+.logo {
+  position:absolute;
+  top: 125px;
+  left: 950px;
+}
+
+.logo2index a {
+  position:absolute;
+  top: 1600px;
+  left: 15px;
+}
+
+.logo2index a:hover{
+background-image: url('../Images/geometric-color.png');
+}
+
 .index-links a {
     font-family: 'Source Sans Pro';
     font-size: 22px;
@@ -338,6 +354,12 @@ header {
       font-weight: lighter;
   }
 
+  .logo-about {
+    position:absolute;
+    top: 1225px;
+    left: 15px;
+  }
+
   /*   ///////////////////////////////////////////////////////////////////   */
 
   /* Sample Page Specific */
@@ -473,6 +495,12 @@ header {
     width: 100%;
   }
 
+  .logo-sample {
+    position:absolute;
+    top: 10770px;
+    left: 15px;
+  }
+
   /*   ///////////////////////////////////////////////////////////////////   */
 
   /* Contact Specific */
@@ -550,4 +578,10 @@ header {
         margin-left: auto;
         margin-right: auto;
 
+      }
+
+      .logo-contact {
+        position:absolute;
+        top: 1210px;
+        left: 15px;
       }
