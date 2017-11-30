@@ -44,4 +44,4 @@ Here are some ideas:
 
 ![typ1](./Inspiration/futuristic-typography.JPG)
 ![typ2](./Inspiration/mesh-cover.JPG)
-![typ3](./Inspiration/Design Logo.jpeg)
+![typ3](./Inspiration/Design-Logo.jpeg)
