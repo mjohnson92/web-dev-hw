@@ -36,7 +36,7 @@ Here are some ideas:
 
 ![light leak](./Inspiration/light-leak.jpg)
 ![texture2](./Inspiration/texture-2.jpg)
-![vhs](./Inspiration/vhs texture 3.jpeg)
+![vhs](./Inspiration/vhs-texture-3.jpeg)
 
 ## I'm also really into typography so it would be cool to design the title content from scratch.
 
