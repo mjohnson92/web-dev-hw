@@ -1,0 +1,78 @@
+
+/* ///// JuliusSansOne ///// */
+
+@font-face {
+   font-family: 'Julius Sans One';
+   src: url('../fonts/JuliusSansOne-Regular.ttf') format('opentype');
+   font-weight: normal;
+   font-style: normal;
+}
+
+/* ///// Megrim ///// */
+
+@font-face {
+   font-family: 'Megrim';
+   src: url('../fonts/Megrim.tff') format('opentype');
+   font-weight: normal;
+   font-style: normal;
+}
+
+/* ///// Roboto ///// */
+
+@font-face {
+   font-family: 'Roboto';
+   src: url('../fonts/Roboto-Light.ttf') format('opentype');
+   font-weight: lighter;
+   font-style: normal;
+}
+@font-face {
+   font-family: 'Roboto';
+   src: url('../fonts/Roboto-LightItalic.ttf') format('opentype');
+   font-weight: lighter;
+   font-style: italic;
+}
+@font-face {
+   font-family: 'Roboto';
+   src: url('../fonts/Roboto-Thin.ttf') format('opentype');
+   font-weight: thin;
+   font-style: normal;
+}
+@font-face {
+   font-family: 'Roboto';
+   src: url('../fonts/Roboto-ThinItalic.ttf') format('opentype');
+   font-weight: thin;
+   font-style: italic;
+}
+
+/* ///// Work Sans ///// */
+
+@font-face {
+   font-family: 'Work Sans';
+   src: url('../fonts/WorkSans-Medium.ttf') format('opentype');
+   font-weight: medium;
+   font-style: normal;
+}
+@font-face {
+   font-family: 'Work Sans';
+   src: url('../fonts/WorkSans-ExtraLight.ttf') format('opentype');
+   font-weight: lighter;
+   font-style: normal;
+}
+@font-face {
+   font-family: 'Work Sans';
+   src: url('../fonts/WorkSans-Light.ttf') format('opentype');
+   font-weight: lighter;
+   font-style: normal;
+}
+@font-face {
+   font-family: 'Work Sans';
+   src: url('../fonts/WorkSans-Regular.ttf') format('opentype');
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: 'Work Sans';
+   src: url('../fonts/WorkSans-Thin.ttf') format('opentype');
+   font-weight: thin;
+   font-style: normal;
+}

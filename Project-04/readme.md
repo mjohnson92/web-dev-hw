@@ -6,6 +6,8 @@
 
 #### The website will be a small profile for some current work I have produced as an electronic musician. With the limited space I will narrow it down to a few things and provide links to the outside web.
 
+#### Hopefully the design of the website will catch the eye immediately but the focal point will be how the music will be displayed. I may have too use an outside source due to file sizes though but we'll see.
+
 #### The content that will be included in my project 04 `index.html` will be the following in chronological order:
 
 - Website title: *Meta*
